@@ -1,5 +1,5 @@
 import { FileNotFoundComponent } from './filenotfound/file-not-found.component';
-import { ProductRoutingModule } from './Product/Product-routing.module';
+import { ProductRoutingModule } from './Product/product-routing.module';
 import { Routes, RouterModule } from '@angular/router';
 import { MenuComponent } from './menu/menu.component';
 import {NgModule} from '@angular/core';

@@ -2,9 +2,9 @@
  * Created by akharawinmahamud on 3/23/2017 AD.
  */
 import {Routes, RouterModule} from "@angular/router";
-import {InformationComponent} from "./product/information/information.component";
-import {infoListComponent} from "./product/infoList/infoList.component";
-import {ProductComponent} from "./product/add/Product.component";
+import {InformationComponent} from "./Product/information/information.component";
+import {infoListComponent} from "./Product/infoList/infoList.component";
+import {ProductComponent} from "./Product/add/Product.component";
 import {FileNotFoundComponent} from "./filenotfound/file-not-found.component";
 import {NgModule} from "@angular/core";
 
